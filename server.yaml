@@ -1,0 +1,11 @@
+mode: srv
+auth:
+  provider: jitsi
+room:
+  id: "https://meet.cryptopro.ru/number1CVV"
+crypto:
+  key: "a7c59c50d35412a2fd37d3a1441e0a520d65187e1483053caf062b6147bd3154"
+net:
+  transport: datachannel
+  dns: "8.8.8.8:53"
+data: data
